@@ -1,55 +1,64 @@
-id: opecha:P000309
+id: P000309
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14505
   title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
-  volume:
+  author: ''
+  volumes:
     00cd3158b69849fabe52bab20c4a9ce6:
       image_group_id: I1KG15201
       title: Volume 1 of gsung 'bum/_dge 'dun grub/
       volume_number: 1
       total_pages: 836
+      base_file: v001.txt
     bdb70033b05141138140a12b912595be:
       image_group_id: I1KG15202
       title: Volume 2 of gsung 'bum/_dge 'dun grub/
       volume_number: 2
       total_pages: 854
+      base_file: v002.txt
     fdff0927241b4dde87b01b18e39a138a:
       image_group_id: I1KG15203
       title: Volume 3 of gsung 'bum/_dge 'dun grub/
       volume_number: 3
       total_pages: 624
+      base_file: v003.txt
     6edde8a93bed45a8944c0f50cad6aea9:
       image_group_id: I1KG15204
       title: Volume 4 of gsung 'bum/_dge 'dun grub/
       volume_number: 4
       total_pages: 544
+      base_file: v004.txt
     5dbd6c1e2bd74f66a961b25f7874fb99:
       image_group_id: I1KG15205
       title: Volume 5 of gsung 'bum/_dge 'dun grub/
       volume_number: 5
       total_pages: 642
+      base_file: v005.txt
     4a187317c63048baa7e9fba97c605876:
       image_group_id: I1KG15206
       title: Volume 6 of gsung 'bum/_dge 'dun grub/
       volume_number: 6
       total_pages: 364
+      base_file: v006.txt
     744ab650062741cb9f81f595a30335f2:
       image_group_id: I1KG15207
       title: Volume 7 of gsung 'bum/_dge 'dun grub/
       volume_number: 7
       total_pages: 530
+      base_file: v007.txt
     7ea34151e09c4929830f1e0d61ec0310:
       image_group_id: I1KG15208
       title: Volume 8 of gsung 'bum/_dge 'dun grub/
       volume_number: 8
       total_pages: 436
+      base_file: v008.txt
     8d3b84dae46c48dbb287594d5401a5cb:
       image_group_id: I1KG15209
       title: Volume 9 of gsung 'bum/_dge 'dun grub/
       volume_number: 9
       total_pages: 690
-  author: ''
+      base_file: v009.txt
 ebook_metadata:
   title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
   author: ''
