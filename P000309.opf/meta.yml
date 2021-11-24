@@ -1,5 +1,7 @@
 id: P000309
 initial_creation_type: ocr
+created_at: 12/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG14505
   title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
@@ -59,10 +61,3 @@ source_metadata:
       volume_number: 9
       total_pages: 690
       base_file: v009.txt
-ebook_metadata:
-  title: གསུང་འབུམ། དགེ་འདུན་གྲུབ།
-  author: ''
-  sku: P000309
-  cover: cover.jpg
-  layers:
-  - pagination
